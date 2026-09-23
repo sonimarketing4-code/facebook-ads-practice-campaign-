@@ -1,0 +1,9 @@
+Metric,Value,Notes
+Spend,10000,Simulated INR budget
+Impressions,34800,Simulated
+Reach,28500,Simulated unique accounts
+Link Clicks,1450,Simulated
+CTR,4.17%,Calculated as clicks/impressions
+CPC,6.90,Calculated as spend/clicks in INR
+CPM,287.36,Calculated as spend/impressions*1000
+Landing Page Views,1180,Simulated
